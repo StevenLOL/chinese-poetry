@@ -1,3 +1,35 @@
+
+### There are special words □ that were unable to map to normal Chinese characters.
+
+This problem affects in the context and anthor names.
+```
+   "author": "趙公碩", 
+    "paragraphs": [
+      "南龕幾百年，古木闞雲掩。", 
+      "崖傾千仞垂，路縣一線險。", 
+      "飛{犭冘}喜曾巔，羸驂怯虛塹。", 
+      "楓葉紅斕斑，松□翠摇颭。", 
+      "石皴風雨剝，殿古木□□。", 
+      "拂拭坐空巖，□□□□琰。", 
+      "江勢從何來，斗然不□□。", 
+      "憑危意欲飛，□□□□□。", 
+      "鳥鳴山更幽，□□翠□染。", 
+      "煙際漾漁舠，風前亂□檿。", 
+      "緩賞有餘歡，高懷無一□。", 
+      "尺璧非所寶，白圭焉受玷。", 
+      "入蜀莫言□，得郡亦云忝。", 
+      "□□長安□，猶勝山陽貶。", 
+      "平生足疎曠，寧復事拘檢。", 
+      "佳時方一來，薄日已半晻。", 
+      "雨餘□□深，月墮山樓黶。", 
+      "□重□□高，□護神光閃。", 
+      "□樂樂□□，君憂憂歲歉。", 
+      "□□□吳□，□□不□點。"
+    ], 
+    "title": "奉和郭使君遊光福寺雲閒閣二十韻"
+  }
+```
+
 # chinese-poetry
 
 ![中华古诗](https://raw.githubusercontent.com/jackeyGao/chinese-poetry/master/images/full-tang-poetry.png "中华古诗")
