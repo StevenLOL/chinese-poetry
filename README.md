@@ -1,7 +1,7 @@
 
 ### There are special words □ that were unable to map to normal Chinese characters.
 
-This problem affects in the context and anthor names.
+This problem affects the context and anthor names.
 ```
    "author": "趙公碩", 
     "paragraphs": [
